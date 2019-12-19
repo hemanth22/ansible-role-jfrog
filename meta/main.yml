@@ -1,0 +1,21 @@
+---
+galaxy_info:
+  role_name: jfrog
+  author: hemanth22
+  description: This role creates jfrog in ec2 instance.
+  license: GPLv3
+  min_ansible_version: 2.9
+  platforms:
+    - name: EL
+      versions:
+        - 7
+  galaxy_tags:
+    - ec2
+    - aws
+    - docker
+    - instance
+    - centos
+    - devops
+    - jfrog
+
+dependencies: []

@@ -44,7 +44,7 @@ Including an example of how to use your role (for instance, with variables passe
     ec2_access_key: Give here aws_access_key
     ec2_secret_key: Give here aws_secret_key
   roles:
-    - hemanth22.awx
+    - hemanth22.jfrog
 ```
 
 License

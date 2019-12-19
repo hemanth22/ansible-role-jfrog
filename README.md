@@ -3,6 +3,8 @@ Role Name: JFrog
 
 This ansible role will install jfrog in the aws ec2 using centos7 images.  
 
+[![Build Status](https://travis-ci.org/hemanth22/ansible-role-jfrog.svg?branch=master)](https://travis-ci.org/hemanth22/ansible-role-jfrog)  
+
 default Username: admin  
 default Password: password  
 default Port: 8081
